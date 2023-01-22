@@ -1,0 +1,4382 @@
+
+[CVODES ERROR]  CVode
+  At t = 4.45014 and h = 6.96875e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 16.0852 and h = 7.83837e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 33.2001 and h = 7.06049e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 50.4001 and h = 7.93868e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 62.4251 and h = 5.23742e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 45.8152 and h = 9.4042e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 80.9402 and h = 6.94292e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 150.26 and h = 8.38151e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 110.37 and h = 7.63956e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 366.165 and h = 9.31408e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 406.8 and h = 7.37507e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 487.61 and h = 8.15984e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 440.355 and h = 9.01096e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 48.8701 and h = 6.22725e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 120.54 and h = 9.12672e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 115.925 and h = 7.08279e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 278.42 and h = 9.70541e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 179.105 and h = 8.03784e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 144.91 and h = 7.35676e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 226.1 and h = 8.20164e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 215.515 and h = 7.3376e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 86.7552 and h = 9.03589e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 405.15 and h = 1.02386e-09, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 105.54 and h = 6.94709e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 50.765 and h = 8.36508e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 114.91 and h = 7.77597e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 179.855 and h = 7.00252e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 232.295 and h = 7.43906e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 57.4503 and h = 1.27113e-09, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 230.61 and h = 8.43812e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 104.811 and h = 2.15844e-09, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 28.9852 and h = 8.91782e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 402.225 and h = 6.34482e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 406.685 and h = 6.50442e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 208.72 and h = 8.65697e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 411.07 and h = 8.3357e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 85.985 and h = 7.84783e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 137.215 and h = 1.15919e-09, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 149.985 and h = 9.857e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 69.1352 and h = 7.39436e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 77.1453 and h = 1.38337e-09, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 62.805 and h = 7.17482e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 120.835 and h = 8.08514e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 196.6 and h = 7.5331e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 91.8851 and h = 5.81927e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 207.87 and h = 9.78219e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 270.71 and h = 6.15394e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 126.14 and h = 9.19912e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 295.94 and h = 1.41831e-09, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 102.63 and h = 9.60405e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 62.38 and h = 6.47214e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 464.95 and h = 9.84732e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 296.4 and h = 7.96085e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 470.33 and h = 1.25205e-09, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 84.7401 and h = 9.79277e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 15.2501 and h = 6.76737e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 377.075 and h = 8.81191e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 191.41 and h = 6.17612e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 32.4002 and h = 7.98936e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 138.31 and h = 6.73475e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 102.38 and h = 9.21377e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 102.626 and h = 2.52032e-09, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 378.31 and h = 8.90873e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 115.125 and h = 6.3459e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 128.02 and h = 6.47006e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 173.04 and h = 5.40363e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 168.445 and h = 7.60827e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 377.33 and h = 7.24541e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 483.385 and h = 8.88794e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 105.27 and h = 1.07828e-09, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 241.7 and h = 1.16977e-09, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 121.075 and h = 6.77174e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 44.7952 and h = 6.28857e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 179.995 and h = 6.56883e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 401.365 and h = 8.11482e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 279.055 and h = 6.49224e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 27.5951 and h = 7.19674e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 34.155 and h = 7.69676e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 62.4951 and h = 1.03915e-09, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 419.355 and h = 8.43348e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 354.845 and h = 8.90916e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 138.265 and h = 8.10251e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 221.17 and h = 7.38966e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 85.5952 and h = 7.36211e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 103.32 and h = 7.45489e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 179.835 and h = 1.63307e-09, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 279.04 and h = 5.83754e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 464.92 and h = 9.48462e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 394.905 and h = 9.99032e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 465.13 and h = 7.32437e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 4.50504 and h = 6.35767e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 261.295 and h = 6.47166e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 20.2902 and h = 7.56711e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 69.6802 and h = 1.00673e-09, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 196.985 and h = 5.83188e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 74.01 and h = 8.74125e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 254.95 and h = 4.60087e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 145.76 and h = 8.86647e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 202.22 and h = 8.98011e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 23.3002 and h = 7.57264e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 73.7401 and h = 5.11397e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 44.4401 and h = 8.31461e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 264.03 and h = 8.5626e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 33.925 and h = 7.8705e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 272.74 and h = 9.86704e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 232.225 and h = 8.72827e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 447.55 and h = 1.38342e-09, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 75.6851 and h = 7.1201e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 4.14007 and h = 6.18006e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 213.855 and h = 6.43543e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 45.5752 and h = 6.52557e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 73.8853 and h = 1.04562e-09, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 195.96 and h = 8.94559e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 488.83 and h = 9.63796e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 150.805 and h = 8.10413e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 157.115 and h = 6.54681e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 314.585 and h = 1.17043e-09, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 166.945 and h = 8.48575e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 61.2702 and h = 1.00286e-09, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 79.2601 and h = 7.56429e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 73.9651 and h = 8.17445e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 26.3301 and h = 7.1621e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 132.13 and h = 5.91525e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 4.19512 and h = 7.66771e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 50.0702 and h = 8.85018e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 184.865 and h = 8.52983e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 452.57 and h = 9.319e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 97.345 and h = 7.6913e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 80.095 and h = 9.14106e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 85.9701 and h = 9.32457e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 437.09 and h = 8.3876e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 102.275 and h = 7.03277e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 335.815 and h = 1.05479e-09, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 69.3151 and h = 8.90291e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 204.545 and h = 6.54172e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 201.715 and h = 8.33037e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 254.805 and h = 1.07975e-09, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 148.335 and h = 9.50637e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 114.44 and h = 8.08312e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 2.83013 and h = 5.88491e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 67.9802 and h = 8.85935e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 119.27 and h = 1.00838e-09, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 178.66 and h = 7.50951e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 69.4801 and h = 8.82431e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 248.905 and h = 7.28931e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 202.58 and h = 8.71112e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 169.66 and h = 5.55071e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 406.76 and h = 6.21117e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 208.43 and h = 8.70322e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 144.185 and h = 7.78471e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 238.985 and h = 7.64095e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 51.0651 and h = 7.88882e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 156.615 and h = 9.15277e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 67.4751 and h = 1.10476e-09, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 358.46 and h = 1.15813e-09, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 284.751 and h = 2.07601e-09, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 74.5902 and h = 6.82767e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 290.63 and h = 7.45719e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 102.59 and h = 9.72763e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 41.8301 and h = 7.24532e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 160.695 and h = 1.92017e-09, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 55.5701 and h = 7.65991e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 207.87 and h = 9.20978e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 166.74 and h = 1.00045e-09, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 79.435 and h = 5.07149e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 301.555 and h = 8.3391e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 115.88 and h = 8.00219e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 138.655 and h = 1.13143e-09, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 185.05 and h = 6.51032e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 34.195 and h = 2.15803e-09, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 180.475 and h = 1.17447e-09, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 478.84 and h = 7.54347e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 272.645 and h = 4.31717e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 173.275 and h = 5.08095e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 413.805 and h = 7.96288e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 104.415 and h = 1.44452e-09, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 78.7405 and h = 1.91722e-09, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 45.925 and h = 9.85048e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 218.23 and h = 7.02429e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 97.1451 and h = 7.53528e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 67.3852 and h = 1.82528e-09, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 366.17 and h = 9.44171e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 441.56 and h = 7.8572e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 360.37 and h = 6.63537e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 440.72 and h = 8.2216e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 80.105 and h = 7.24603e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 173.69 and h = 1.07099e-09, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 67.555 and h = 2.00942e-09, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 21.73 and h = 7.6134e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 181.095 and h = 7.06055e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 377.98 and h = 8.41853e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 16.6451 and h = 6.19709e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 285.16 and h = 8.05047e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 220.555 and h = 7.15089e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 226.085 and h = 8.34338e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 34.2752 and h = 7.23443e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 338.075 and h = 7.76522e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 110.115 and h = 6.0617e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 157.37 and h = 6.63064e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 63.4151 and h = 2.62749e-09, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 35.4402 and h = 9.87096e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 50.055 and h = 9.05119e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 116.515 and h = 6.83922e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 179.385 and h = 8.27074e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 160.775 and h = 8.864e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 50.2701 and h = 7.8052e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 377.22 and h = 7.83416e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 86.1402 and h = 7.35515e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 109.19 and h = 6.75227e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 168.355 and h = 8.73329e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 301.645 and h = 7.85215e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 388.115 and h = 7.58481e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 301.975 and h = 1.76829e-09, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 109.305 and h = 9.67216e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 442.465 and h = 6.32959e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 289.67 and h = 8.73035e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 49.7951 and h = 7.85074e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 79.805 and h = 7.67048e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 225.35 and h = 7.67955e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 408.48 and h = 5.69534e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 69.1701 and h = 6.52898e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 97.0802 and h = 8.21046e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 68.6902 and h = 8.7116e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 255.79 and h = 8.22137e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 325.285 and h = 1.00738e-09, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 94.0201 and h = 6.76e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 196.875 and h = 6.59597e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 27.3701 and h = 8.17398e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 214.8 and h = 8.32818e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 14.1252 and h = 7.79381e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 45.6 and h = 5.92774e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 145.095 and h = 7.42308e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 32.1902 and h = 7.26922e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 4.44515 and h = 6.61513e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 286.945 and h = 7.83329e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 122.9 and h = 7.26435e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 361.08 and h = 8.91312e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 45.6151 and h = 6.6651e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 58.3501 and h = 7.34486e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 312.605 and h = 1.22911e-09, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 88.2104 and h = 1.55107e-09, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 27.2952 and h = 8.85985e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 394.79 and h = 8.14774e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 412.535 and h = 6.99768e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 384.035 and h = 6.56016e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 366.72 and h = 7.64141e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 143.45 and h = 6.45569e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 191.145 and h = 7.14585e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 74.335 and h = 6.27065e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 464.64 and h = 8.51476e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 15.965 and h = 6.77067e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 128.175 and h = 8.10798e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 436.31 and h = 9.79325e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 483.405 and h = 7.99997e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 91.88 and h = 5.54993e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 343.14 and h = 8.33579e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 91.915 and h = 7.46936e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 122.595 and h = 7.46145e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 75.1651 and h = 8.45342e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 185.805 and h = 6.72075e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 156.31 and h = 9.77838e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 84.6754 and h = 1.34193e-09, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 78.99 and h = 8.76754e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 395.45 and h = 2.39978e-09, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 412.95 and h = 6.69204e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 354.41 and h = 8.21653e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 58.5502 and h = 7.69698e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 22.4301 and h = 7.84189e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 278.44 and h = 7.38615e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 32.43 and h = 6.91005e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 109.445 and h = 7.49708e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 178.98 and h = 6.95456e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 72.8452 and h = 1.13262e-09, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 50.1251 and h = 8.38691e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 80.395 and h = 7.37047e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 17.0451 and h = 9.56274e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 237.465 and h = 8.55051e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 51.5202 and h = 7.24507e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 190.675 and h = 9.00934e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 97.26 and h = 7.84663e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 284.555 and h = 7.3056e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 131.99 and h = 9.70842e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 191.52 and h = 6.95442e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 68.3652 and h = 7.60418e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 67.3002 and h = 9.16051e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 307.475 and h = 1.14606e-09, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 313.03 and h = 6.8025e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 267.575 and h = 9.33108e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 43.5751 and h = 8.20529e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 61.6251 and h = 6.68036e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 285.66 and h = 6.67891e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 44.2152 and h = 8.97048e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 33.8851 and h = 9.95182e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 61.2751 and h = 6.83865e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 155.965 and h = 2.5267e-09, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 302.18 and h = 8.67767e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 16.5003 and h = 1.04356e-09, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 204.041 and h = 2.25889e-09, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 72.84 and h = 1.08368e-09, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 495.36 and h = 8.2116e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 33.1102 and h = 6.65993e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 260.56 and h = 8.78744e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 254.685 and h = 7.91421e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 401.355 and h = 8.24635e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 312.76 and h = 8.23998e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 174.365 and h = 8.1732e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 208.07 and h = 6.62783e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 336.79 and h = 9.30689e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 107.765 and h = 6.94317e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 260.31 and h = 8.53495e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 418.32 and h = 8.09878e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 6.34506 and h = 6.16885e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 69.2051 and h = 5.04437e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 477.295 and h = 1.05847e-09, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 138.74 and h = 8.58314e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 323.18 and h = 6.98883e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 28.385 and h = 6.82546e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 347.515 and h = 8.86737e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 168.615 and h = 7.10704e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 337.17 and h = 6.61535e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 98.9451 and h = 6.93924e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 93.9202 and h = 8.94484e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 215.6 and h = 8.49541e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 173.6 and h = 7.50404e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 226.19 and h = 7.70108e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 61.5851 and h = 1.02914e-09, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 395.535 and h = 8.05515e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 74.7651 and h = 8.75728e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 16.295 and h = 8.70064e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 4.58519 and h = 7.85449e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 150.075 and h = 5.84397e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 85.765 and h = 6.89664e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 33.4402 and h = 6.35214e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 233.11 and h = 6.40249e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 191.365 and h = 9.68178e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 279.73 and h = 6.64022e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 262.47 and h = 9.3798e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 454.135 and h = 7.92161e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 296.855 and h = 9.18446e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 365.65 and h = 7.98554e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 202.58 and h = 1.92313e-09, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 128.33 and h = 8.26705e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 183.886 and h = 2.37007e-09, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 3.9351 and h = 8.22133e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 44.7251 and h = 7.85222e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 465.255 and h = 6.56507e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 126.035 and h = 7.84867e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 27.63 and h = 7.47884e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 98.0951 and h = 7.69853e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 50.2851 and h = 7.54335e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 80.0901 and h = 6.15296e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 86.5254 and h = 1.90532e-09, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 97.9802 and h = 9.59427e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 196.57 and h = 1.0407e-09, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 272.22 and h = 7.48725e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 162.44 and h = 1.22178e-09, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 110.385 and h = 5.97146e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 470.945 and h = 1.08012e-09, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 383.195 and h = 8.42138e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 195.935 and h = 7.7159e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 248.75 and h = 7.11749e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 296.465 and h = 6.79492e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 27.885 and h = 7.85122e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 33.0603 and h = 1.20509e-09, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 266.77 and h = 8.69522e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 150.305 and h = 7.52497e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 79.9801 and h = 9.10864e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 483.33 and h = 8.03845e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 166.285 and h = 8.38706e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 429.645 and h = 7.80604e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 97.1052 and h = 7.60097e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 267.31 and h = 6.8123e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 12.8551 and h = 7.85573e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 103.255 and h = 6.45937e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 80.105 and h = 6.85617e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 271.475 and h = 7.73535e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 151.04 and h = 7.75148e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 37.245 and h = 9.25748e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 43.2604 and h = 1.40796e-09, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 86.3451 and h = 7.7154e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 115.15 and h = 5.77418e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 254.265 and h = 7.9521e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 68.3251 and h = 7.24689e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 151.735 and h = 7.83254e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 103.68 and h = 6.892e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 191.26 and h = 7.90766e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 290.49 and h = 8.82394e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 273.225 and h = 8.23771e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 121.69 and h = 7.81317e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 16.3002 and h = 6.66904e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 459.455 and h = 8.31442e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 184.67 and h = 5.93266e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 43.6251 and h = 7.12201e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 86.7102 and h = 7.86936e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 74.3401 and h = 8.08714e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 105.025 and h = 9.08805e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 297.64 and h = 6.76843e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 448.48 and h = 6.42547e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 26.5502 and h = 7.0546e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 267.005 and h = 8.41814e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 319.395 and h = 9.59829e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 212.015 and h = 1.02135e-09, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 160.435 and h = 1.59446e-09, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 179.545 and h = 7.23065e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 314.82 and h = 6.27734e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 360.9 and h = 7.62055e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 207.825 and h = 1.22896e-09, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 277.435 and h = 5.99968e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 406.745 and h = 7.76615e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 10.7201 and h = 6.59791e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 194.785 and h = 6.59774e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 191.575 and h = 2.80419e-09, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 383.195 and h = 6.63301e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 109.285 and h = 6.58224e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 90.37 and h = 8.00239e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 155.665 and h = 6.12805e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 27.7302 and h = 5.37354e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 149.485 and h = 7.62317e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 4.02514 and h = 5.9171e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 146.795 and h = 2.2502e-09, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 283.8 and h = 8.05205e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 243.23 and h = 6.14359e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 51.8301 and h = 7.68105e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 272.505 and h = 9.6864e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 273.59 and h = 8.89572e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 244.28 and h = 7.14042e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 27.0351 and h = 1.35765e-09, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 244.51 and h = 7.89828e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 156.14 and h = 8.95194e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 167.22 and h = 7.15701e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 319.525 and h = 7.82445e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 423.955 and h = 7.86027e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 426.89 and h = 8.9127e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 120.495 and h = 1.05081e-09, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 15.3502 and h = 7.44988e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 208.89 and h = 8.8417e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 127.025 and h = 8.92276e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 186.55 and h = 8.00543e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 49.4603 and h = 2.1186e-09, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 312.375 and h = 8.55631e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 85.5003 and h = 1.36798e-09, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 74.4501 and h = 7.55109e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 145 and h = 1.05212e-09, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 261.25 and h = 1.11315e-09, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 214.985 and h = 9.72187e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 55.1602 and h = 7.80478e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 167.88 and h = 8.33301e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 401.295 and h = 7.02674e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 458.255 and h = 9.17947e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 103.15 and h = 7.78e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 160.195 and h = 8.11802e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 40.3802 and h = 1.00439e-09, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 424.605 and h = 7.55894e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 121.58 and h = 6.68526e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 180.275 and h = 7.50737e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 150.295 and h = 8.16281e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 112.235 and h = 6.48013e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 27.8752 and h = 7.29606e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 121.59 and h = 7.71712e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 499.265 and h = 1.36272e-09, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 185.08 and h = 8.33522e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 337.355 and h = 8.17647e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 493.31 and h = 8.21841e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 114.525 and h = 7.10934e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 23.56 and h = 5.32418e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 314.25 and h = 9.18768e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 103.23 and h = 8.09726e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 3.30504 and h = 7.1583e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 330.855 and h = 8.85095e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 348.735 and h = 7.4293e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 137.945 and h = 7.60253e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 225.605 and h = 8.59954e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 21.9651 and h = 8.24239e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 214.12 and h = 7.48954e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 336.735 and h = 6.60953e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 377.485 and h = 7.87778e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 466.995 and h = 9.59106e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 172.52 and h = 7.87858e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 22.8802 and h = 9.52797e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 80.7051 and h = 7.66977e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 97.9504 and h = 1.21737e-09, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 452.81 and h = 1.83302e-09, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 90.8301 and h = 8.12545e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 203 and h = 6.91134e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 80.3351 and h = 9.20603e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 76.2301 and h = 9.93845e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 291.265 and h = 8.03742e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 3.02505 and h = 5.73198e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 202.24 and h = 7.87491e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 102.73 and h = 7.65709e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 279.595 and h = 6.31508e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 26.0201 and h = 5.91089e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 249.72 and h = 7.97841e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 132.21 and h = 8.36203e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 203.025 and h = 9.43098e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 237.325 and h = 6.63646e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 353.655 and h = 8.33252e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 126.835 and h = 7.5587e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 149.55 and h = 6.1498e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 45.0902 and h = 7.7378e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 32.7852 and h = 7.90945e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 62.5651 and h = 8.2808e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 209.095 and h = 6.69704e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 265.265 and h = 7.08259e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 244.9 and h = 9.78089e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 195.295 and h = 6.22164e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 132.165 and h = 8.18138e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 156.85 and h = 8.7148e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 21.9751 and h = 5.27856e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 367.785 and h = 7.27322e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 400.19 and h = 9.19883e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 412.37 and h = 8.52602e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 20.5702 and h = 1.04703e-09, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 180.73 and h = 9.60046e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 80.9501 and h = 7.98358e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 465.63 and h = 6.38297e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 70.4751 and h = 9.08068e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 208.925 and h = 9.04852e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 238.23 and h = 7.7602e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 489.03 and h = 1.28547e-09, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 83.2901 and h = 8.19417e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 23.1454 and h = 1.34325e-09, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 91.5752 and h = 7.81062e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 85.6301 and h = 8.33546e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 10.24 and h = 7.58208e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 3.95001 and h = 6.3131e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 319.58 and h = 6.49942e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 148.8 and h = 1.00023e-09, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 81.0902 and h = 8.86577e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 104.6 and h = 9.69467e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 156.635 and h = 7.18757e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 325.675 and h = 7.82279e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 208 and h = 9.5363e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 155.465 and h = 7.07811e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 457.83 and h = 7.38746e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 122.335 and h = 7.59163e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 80.875 and h = 5.14822e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 115.3 and h = 7.00629e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 202.85 and h = 9.60838e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 3.8051 and h = 5.62083e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 140.04 and h = 8.26309e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 324.45 and h = 6.09142e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 377.085 and h = 4.72501e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 132.13 and h = 7.21437e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 180.365 and h = 7.79927e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 180.335 and h = 5.68706e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 103.72 and h = 8.1485e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 92.6051 and h = 6.45578e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 279.4 and h = 7.26397e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 208.34 and h = 8.67625e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 50.39 and h = 7.62015e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 40.2754 and h = 1.48039e-09, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 337.125 and h = 7.46801e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 21.8551 and h = 7.34177e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 4.12524 and h = 7.69901e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 33.9051 and h = 5.89981e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 23.5202 and h = 9.12135e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 171.94 and h = 9.57236e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 424.615 and h = 7.90777e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 50.5152 and h = 8.64542e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 155.735 and h = 6.73316e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 179.135 and h = 6.58817e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 162.755 and h = 1.03675e-09, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 92.355 and h = 6.60535e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 52.0702 and h = 6.98191e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 33.26 and h = 1.16709e-09, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 117.215 and h = 9.74696e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 27.9252 and h = 8.91422e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 354.95 and h = 9.25309e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 103.42 and h = 8.32448e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 91.8401 and h = 6.70772e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 98.7502 and h = 7.03665e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 418.885 and h = 8.77369e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 243.06 and h = 9.6995e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 127.16 and h = 7.6736e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 109.86 and h = 7.28101e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 90.7001 and h = 8.61335e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 278.305 and h = 1.02258e-09, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 202.67 and h = 7.87524e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 208.915 and h = 9.11915e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 39.4401 and h = 7.21201e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 209.68 and h = 7.48326e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 225.195 and h = 6.75767e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 367.24 and h = 7.5286e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 10.8352 and h = 8.67861e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 33.4202 and h = 8.05443e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 493.565 and h = 6.54218e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 35.2153 and h = 1.33072e-09, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 100.9 and h = 1.1063e-09, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 318.64 and h = 7.77138e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 80.2451 and h = 1.00724e-09, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 163.22 and h = 2.10981e-09, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 314.215 and h = 7.2746e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 108.115 and h = 5.8574e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 266.265 and h = 9.14974e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 465.1 and h = 7.57068e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 46.0803 and h = 9.19004e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 172.78 and h = 7.863e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 273.05 and h = 8.07228e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 331.89 and h = 8.29861e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 21.9202 and h = 9.6352e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 64.4702 and h = 6.63084e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 115.29 and h = 7.45521e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 31.7901 and h = 8.67024e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 133.055 and h = 9.42922e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 377.7 and h = 7.28571e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 372.64 and h = 1.03952e-09, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 74.5151 and h = 7.25534e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 355.55 and h = 5.74711e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 3.94014 and h = 7.71271e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 482.805 and h = 7.00208e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 86.765 and h = 1.25139e-09, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 79.1502 and h = 8.63641e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 180.145 and h = 1.21018e-09, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 447.55 and h = 1.00759e-09, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 395.915 and h = 6.42793e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 94.06 and h = 8.41978e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 80.2302 and h = 8.84914e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 10.2652 and h = 7.14651e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 73.815 and h = 7.41441e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 448.405 and h = 1.02178e-09, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 39.08 and h = 6.67611e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 312.695 and h = 1.46438e-09, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 143.57 and h = 8.36035e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 332.07 and h = 9.39246e-10, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+
+
+[CVODES ERROR]  CVode
+  At t = 424.28 and h = 1.02386e-09, the error test failed repeatedly or with |h| = hmin.
+
+
+SUNDIALS_ERROR: CVode() failed with retval = -3
+

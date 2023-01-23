@@ -4,7 +4,7 @@ Whole body (human) lumped parameter modelling. 2019-2023.
 
 # Background.  
 
-As part of the hemodynamics project (April 2019 to March 2023), two junior developers undertook graduate studies under
+As part of my hemodynamics project (April 2019 to March 2023), two junior developers undertook graduate studies under
 my advice. While implementing lumped paramter boundary conditions, which are essentially blood vessel terminal resistances,
 impedences, capacitances, a whole body human model described by ordinary differential equations (lumped parameters) 
 was implemented based on existing literature. In addition, a suitable ODE description of a dialyser machine representing

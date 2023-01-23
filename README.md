@@ -50,8 +50,7 @@ This code is provided as is to interested users.
 # Provenance.  
 
 This code can be further developed. It can be made modular. It can be extended to incorporate several known hemodynamic
-mechnisms which may render it useful in experimental research. For example, the predictor of cerebral flow and pressure,
-that is inaccessible to experiment, based on large vessel recordings may become feasible. While it has commercialisation potential in the mid-term (5 years), development of the package can eventually be deployed in following as examples:  
+mechnisms (autoregulation, local tone regular by shear, plasma-wall interactions) which may render it useful in experimental research. For example, the predictor of cerebral flow and pressure, that is inaccessible to experiment, based on large vessel recordings may become feasible (see work by e.g. Ashley Walker in Oregon USA). While it has commercialisation potential in the mid-term (5 years), development of the package can eventually be deployed in following as examples:  
 * Virtual patient simulation on the effects of disease (dialysis, loss of autoregulation, loss of tone) on hemodynamics.  
 * A rapid and efficient way to provide clinical metrics, see Sheffield Insignio activities.  
 * Interpretation of routine clinical measurements such as cerebral TCD and velocimetry.  

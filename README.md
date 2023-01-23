@@ -55,7 +55,8 @@ mechnisms (autoregulation, local tone regular by shear, plasma-wall interactions
 * A rapid and efficient way to provide clinical metrics, see Sheffield Insignio activities.  
 * Interpretation of routine clinical measurements such as cerebral TCD and velocimetry.  
 * complement in vivo experiments for data analysis.  
-* Complement epidemiology data science.  
+* Complement epidemiologica data science studies.
+* Use large repositories such as UK Biobank to extract hemodynamic information under health and disease.
 
 # Acknowledements.
 

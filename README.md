@@ -63,7 +63,7 @@ This project was generously funded by CANARIE Inc. Canada (April 2020 to March 2
 
 # Licence.  
 
-These codes are the collective IP of SR Kharche, Jermiah Joseph, Tim Hunter, grant investigators, Lawson, and Western University; whose approval may be required for use and deployment.  
+These codes are the collective IP of SR Kharche, Jermiah Joseph, Tim Hunter, grant investigators, Lawson, and Western University; whose written approval may be required for use and deployment.  
 
 ## Dr. Sanjay R. Kharche, Ph.D. (App. Maths).  
 January 23rd, 2023.  

@@ -26,7 +26,7 @@ or USA.
 
 # Dependencies.  
 
-This code in C language requires GNU C compiler and Sundials libraries.
+This code in C language requires GNU C compiler and Sundials library.
 
 # Install.  
 
